@@ -1,0 +1,5 @@
+com\mediflow\ai\controller\AIController.class
+com\mediflow\ai\service\ClinicalService.class
+com\mediflow\ai\config\AIConfig.class
+com\mediflow\ai\AiEngineApplication.class
+com\mediflow\ai\service\RAGService.class
